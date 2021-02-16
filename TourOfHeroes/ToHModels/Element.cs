@@ -1,8 +1,9 @@
-﻿using System;
-
+﻿  
+using System;
 namespace ToHModels
 {
-    public class Element
+    public enum Element
     {
+        Air, Earth, Water, Fire
     }
 }
